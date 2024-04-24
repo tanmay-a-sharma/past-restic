@@ -106,4 +106,3 @@ complete text in [`LICENSE`](LICENSE).
 Backend integration tests for Google Cloud Storage and Microsoft Azure Blob
 Storage are sponsored by [AppsCode](https://appscode.com)!
 
-[![Sponsored by AppsCode](https://cdn.appscode.com/images/logo/appscode/ac-logo-color.png)](https://appscode.com)
